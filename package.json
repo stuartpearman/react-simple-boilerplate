@@ -16,12 +16,12 @@
     "edit",
     "webpack"
   ],
-  "author": "Noah-Jerome Lotzer <noah.lotzer@gmail.com>",
+  "author": "Stuart Pearman <swpearman@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
+    "url": "https://github.com/stuartpearman/react-simple-boilerplate/issues"
   },
-  "homepage": "https://github.com/noahlotzer/react-simple-boilerplate",
+  "homepage": "https://github.com/stuartpearman/react-simple-boilerplate",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
